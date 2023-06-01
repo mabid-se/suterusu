@@ -119,7 +119,7 @@ const HeroSection = () => {
                 <Grid
                   item
                   key={item.text}
-                  width="85px"
+                  sx={{ width: "85px", cursor: "pointer" }}
                   onClick={() => setActiveBtn(item.text.toString())}
                 >
                   <img src={item.img} style={{ width: "90%" }} />
