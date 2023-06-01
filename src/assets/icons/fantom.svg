@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eth</title>
+    <g id="英文" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="展开" transform="translate(-596.000000, -770.000000)">
+            <g id="1" transform="translate(196.000000, 422.000000)">
+                <g id="chains" transform="translate(0.000000, 348.000000)">
+                    <g id="eth" transform="translate(400.000000, 0.000000)">
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="1.5" fill-opacity="0.5" fill="#1C1C1C" x="0.75" y="0.75" width="48.5" height="48.5" rx="18"></rect>
+                        <path d="M15,13.8090452 L15,36.1909548 L25,42 L35,36.1909548 L35,13.8090452 L25,8 L15,13.8090452 Z M32,14.4924623 L25,18.5929648 L18,14.4924623 L25,10.2211055 L32,14.4924623 Z M24,28.6733668 L18,25.0854271 L24,21.4974874 L24,28.6733668 Z M26,21.4974874 L32,25.0854271 L26,28.6733668 L26,21.4974874 Z M17,16.201005 L23,19.7889447 L17,23.3768844 L17,16.201005 Z M33,35.1658291 L25,39.9497487 L17,35.1658291 L17,26.7939698 L25,31.5778894 L33,26.7939698 L33,35.1658291 Z M27,19.7889447 L33,16.201005 L33,23.3768844 L27,19.7889447 Z" id="Fill-3" fill="#4E4E54"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
